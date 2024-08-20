@@ -8,3 +8,4 @@ collinwebdesigns/fastapi-dls
 6053537/portainer-ce
 langgenius/dify-web:0.7.1
 langgenius/dify-sandbox:0.2.6
+langgenius/dify-api:0.7.1
