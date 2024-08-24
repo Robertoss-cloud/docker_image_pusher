@@ -4,12 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-collinwebdesigns/fastapi-dls
-lobehub/lobe-chat
-chromadb/chroma
-0001coder/chatollama:latest
-redis:latest
-pgvector/pgvector:pg16
 docker.elastic.co/elasticsearch/elasticsearch
 mysql:5.7.18
 redis:7.2.4
