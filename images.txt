@@ -4,6 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.elastic.co/elasticsearch/elasticsearch
+elasticsearch
 mysql:5.7.18
 redis:7.2.4
