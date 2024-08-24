@@ -4,5 +4,21 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+#collinwebdesigns/fastapi-dls
+#6053537/portainer-ce
+#langgenius/dify-web:0.7.1
+#langgenius/dify-sandbox:0.2.6
+#langgenius/dify-api:0.7.1
+#pgvector/pgvector:0.7.0-pg15
+#mongo:5.0.18
+#ghcr.io/songquanpeng/one-api:v0.6.7
+#lobehub/lobe-chat
+#chromadb/chroma
+#0001coder/chatollama:latest
+#redis:latest
+#pgvector/pgvector:pg16
+#lobehub/lobe-chat-database
+#docker.elastic.co/elasticsearch/elasticsearch
 mysql:5.7.18
 redis:7.2.4
+
