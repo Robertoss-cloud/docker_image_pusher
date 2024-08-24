@@ -17,3 +17,5 @@ chromadb/chroma
 ghcr.io/sugarforever/peanut-shell:latest
 0001coder/chatollama:latest
 redis:latest
+pgvector/pgvector:pg16
+lobehub/lobe-chat-database
