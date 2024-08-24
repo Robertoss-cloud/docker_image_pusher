@@ -21,4 +21,4 @@
 #docker.elastic.co/elasticsearch/elasticsearch
 #mysql:5.7.18
 #redis:7.2.4
-elasticsearch:latest
+elasticsearch:8.15.0
