@@ -8,7 +8,7 @@ nginx
 #6053537/portainer-ce
 #langgenius/dify-web:0.7.1
 #langgenius/dify-web:0.8.2
-#langgenius/dify-sandbox:0.2.6
+langgenius/dify-sandbox:0.2.9
 #langgenius/dify-api:0.7.1
 #langgenius/dify-api:0.8.2
 #ubuntu/squid:latest
@@ -27,4 +27,4 @@ nginx
 #redis:7.2.4
 #elasticsearch:8.15.0
 #ubuntu
-ollama/ollama
+#ollama/ollama
