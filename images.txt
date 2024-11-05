@@ -12,7 +12,7 @@ nginx
 #postgres:15-alpine
 #langgenius/dify-api:0.10.2
 #langgenius/dify-sandbox:0.2.9
-langgenius/dify-sandbox:0.2.10
+#langgenius/dify-sandbox:0.2.10
 #langgenius/dify-api:0.7.1
 #langgenius/dify-api:0.8.2
 #ubuntu/squid:latest
@@ -25,12 +25,12 @@ langgenius/dify-sandbox:0.2.10
 #chromadb/chroma
 #0001coder/chatollama:latest
 #redis:latest
-redis:6-alpine
-pgvector/pgvector:pg16
+#redis:6-alpine
+#pgvector/pgvector:pg16
 #lobehub/lobe-chat-database
 #docker.elastic.co/elasticsearch/elasticsearch
 #mysql:5.7.18
 #redis:7.2.4
 #elasticsearch:8.15.0
 #ubuntu
-#ollama/ollama
+ollama/ollama
