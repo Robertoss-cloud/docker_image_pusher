@@ -10,12 +10,16 @@
 #langgenius/dify-web:0.8.2
 #langgenius/dify-web:0.10.2
 #langgenius/dify-web:0.11.0
+langgenius/dify-web:0.13.1
 #postgres:15-alpine
 #langgenius/dify-api:0.10.2
 #langgenius/dify-sandbox:0.2.9
 #langgenius/dify-sandbox:0.2.10
 #langgenius/dify-api:0.7.1
 #langgenius/dify-api:0.8.2
+langgenius/dify-api:0.13.1
+langgenius/qdrant:v1.7.3
+tensorchord/pgvecto-rs:pg16-v0.3.0
 #ubuntu/squid:latest
 #certbot/certbot
 #semitechnologies/weaviate:1.19.0
@@ -24,6 +28,7 @@
 #ghcr.io/songquanpeng/one-api:v0.6.7
 #lobehub/lobe-chat
 #chromadb/chroma
+ghcr.io/chroma-core/chroma:0.5.20
 #0001coder/chatollama:latest
 #redis:latest
 #redis:6-alpine
