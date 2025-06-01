@@ -42,4 +42,4 @@ ghcr.io/chroma-core/chroma:0.5.20
 ollama/ollama
 #clamav/clamav:latest
 #xprobe/xinference:latest
-xosadmin/docker-rsyslog-mysql:latest
+docker-rsyslog-mysql:latest
