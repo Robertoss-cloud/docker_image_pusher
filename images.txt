@@ -45,3 +45,4 @@ ollama/ollama
 rsyslog/rsyslog:latest
 bytemark/webdav
 ugeek/webdav:amd64
+mogeko/vlmcsd
