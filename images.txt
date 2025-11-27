@@ -44,3 +44,4 @@ ollama/ollama
 #xprobe/xinference:latest
 rsyslog/rsyslog:latest
 bytemark/webdav
+ugeek/webdav:amd64
