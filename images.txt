@@ -39,10 +39,11 @@ ghcr.io/chroma-core/chroma:0.5.20
 #redis:7.2.4
 #elasticsearch:8.15.0
 #ubuntu
-ollama/ollama
+#ollama/ollama
 #clamav/clamav:latest
 #xprobe/xinference:latest
-rsyslog/rsyslog:latest
-bytemark/webdav
-ugeek/webdav:amd64
+#rsyslog/rsyslog:latest
+#bytemark/webdav
+#ugeek/webdav:amd64
 mogeko/vlmcsd
+calico/cni:v3.27.0
