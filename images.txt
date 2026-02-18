@@ -28,7 +28,7 @@ collinwebdesigns/fastapi-dls
 #ghcr.io/songquanpeng/one-api:v0.6.7
 #lobehub/lobe-chat
 #chromadb/chroma
-ghcr.io/chroma-core/chroma:0.5.20
+#ghcr.io/chroma-core/chroma:0.5.20
 #0001coder/chatollama:latest
 #redis:latest
 #redis:6-alpine
@@ -38,7 +38,7 @@ ghcr.io/chroma-core/chroma:0.5.20
 #mysql:5.7.18
 #redis:7.2.4
 #elasticsearch:8.15.0
-#ubuntu
+ubuntu
 #ollama/ollama
 #clamav/clamav:latest
 #xprobe/xinference:latest
@@ -46,4 +46,5 @@ ghcr.io/chroma-core/chroma:0.5.20
 #bytemark/webdav
 #ugeek/webdav:amd64
 mogeko/vlmcsd
-calico/cni:v3.27.0
+#calico/cni:v3.27.0
+nginx:stable-alpine3.23-perl
