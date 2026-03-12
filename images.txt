@@ -48,6 +48,6 @@
 #rsyslog/rsyslog:latest
 #bytemark/webdav
 #ugeek/webdav:amd64
-mogeko/vlmcsd
+#mogeko/vlmcsd
 #calico/cni:v3.27.0
-nginx:stable-alpine3.23-perl
+#nginx:stable-alpine3.23-perl
