@@ -1,7 +1,7 @@
 #nginx
-mongo:6.0
-redis:7.0
-openclaw/openclaw:latest
+#mongo:6.0
+#redis:7.0
+0penclaw/openclaw:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
