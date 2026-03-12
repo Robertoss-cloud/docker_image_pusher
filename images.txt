@@ -1,10 +1,13 @@
 #nginx
+mongo:6.0
+redis:7.0
+openclaw/openclaw:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-collinwebdesigns/fastapi-dls
+#collinwebdesigns/fastapi-dls
 #6053537/portainer-ce
 #langgenius/dify-web:0.7.1
 #langgenius/dify-web:0.8.2
@@ -38,7 +41,7 @@ collinwebdesigns/fastapi-dls
 #mysql:5.7.18
 #redis:7.2.4
 #elasticsearch:8.15.0
-ubuntu
+#ubuntu
 #ollama/ollama
 #clamav/clamav:latest
 #xprobe/xinference:latest
