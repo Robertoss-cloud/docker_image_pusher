@@ -1,7 +1,7 @@
-#nginx
+ #nginx
 #mongo:6.0
 #redis:7.0
-1panel/openclaw:latest
+#1panel/openclaw:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -42,7 +42,7 @@
 #redis:7.2.4
 #elasticsearch:8.15.0
 #ubuntu
-#ollama/ollama
+ollama/ollama
 #clamav/clamav:latest
 #xprobe/xinference:latest
 #rsyslog/rsyslog:latest
