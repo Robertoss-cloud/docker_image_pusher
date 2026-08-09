@@ -48,6 +48,8 @@
 #rsyslog/rsyslog:latest
 #bytemark/webdav
 gdy666/lucky:v3_xiaojv_waf
+gdy666/lucky:3.0.0
+gdy666/lucky:v2
 #ugeek/webdav:amd64
 #mogeko/vlmcsd
 #calico/cni:v3.27.0
